@@ -18,7 +18,7 @@ GitHub: [Tensorflow Implementation of Multiband_MelGAN](https://github.com/Tenso
 **높게 +20Hz**  
 [sample1](https://chkwon19.github.io/FastSpeech2_Multiband-MelGAN/32.wav)	[sample2](https://chkwon19.github.io/FastSpeech2_Multiband-MelGAN/32.wav)   
 
-**낮게 +20Hz**  
+**낮게 -20Hz**  
 [sample1](https://chkwon19.github.io/FastSpeech2_Multiband-MelGAN/32.wav)	[sample2](https://chkwon19.github.io/FastSpeech2_Multiband-MelGAN/32.wav)   
 
 
